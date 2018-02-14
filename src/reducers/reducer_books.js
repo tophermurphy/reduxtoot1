@@ -1,8 +1,8 @@
 export default function() {
     return [
-        {title: 'Valis'},
-        {title: 'Foucalt\'s Pendulum'},
-        {title: 'Breakfast of Champions'},
-        {title: 'Brave New World'}
+        {title: 'Valis', pages: 101},
+        {title: 'Foucalt\'s Pendulum', pages: 309},
+        {title: 'Breakfast of Champions', pages: 25},
+        {title: 'Brave New World', pages: 2}
     ];
 }
